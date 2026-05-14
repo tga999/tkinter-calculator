@@ -2,6 +2,9 @@
 
 Calculadora científica desarrollada en Python utilizando Tkinter.
 
+## Screenshot
+
+
 ## Funciones
 - Suma
 - Resta
